@@ -28,11 +28,11 @@ class Introduction extends React.Component {
         <hr className="intro-rule" />
         <div className="usa-grid">
           <div className="intro-container">
-            <h2 className="intro-heading"> File a complaint </h2>
+            <h2 className="intro-heading"> File a thanks </h2>
             <hr className="form-rule" />
             <p>
               You DO NOT have to give personal information in order to file a
-              complaint.
+              thanks.
             </p>
             <p>
               By telling us about your experience, you help us better serve you
@@ -145,7 +145,7 @@ class Introduction extends React.Component {
                 aria-hidden="true"
               >
                 <p>
-                  Download the complaint form (PDF). Print and fill out the
+                  Download the thanks form (PDF). Print and fill out the
                   form, then mail it to:
                 </p>
                 <address>

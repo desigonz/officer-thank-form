@@ -1,4 +1,4 @@
-# City of Austin: Office of Police Oversight - Complaint Form
+# City of Austin: Office of Police Oversight - thanks Form
 Started by using the [US Forms System Starter App](https://github.com/usds/us-forms-system-starter-app).
 
 ## Running the form locally
@@ -7,8 +7,8 @@ Started by using the [US Forms System Starter App](https://github.com/usds/us-fo
 
 👯 Clone the repo (recommended: --recursive to also pull submodules) [more about submodules](http://www.vogella.com/tutorials/GitSubmodules/article.html)
 ```
-git clone --recursive https://github.com/cityofaustin/officer-complaint-form
-cd officer-complaint-form
+git clone --recursive https://github.com/cityofaustin/officer-thanks-form
+cd officer-thanks-form
 ```
 
 ### Install dependencies and run
@@ -67,7 +67,7 @@ yarn build
 🔗Link
 ```
 yarn link
-cd ../officer-complaint-form
+cd ../officer-thanks-form
 yarn link "@cityofaustin/usfs-components"
 ```
 
